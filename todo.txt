@@ -1,0 +1,8 @@
+- Get all current students
+- Get all current teachers
+- Get all current class rosters
+- Get grades per student per subject
+- Get attendance per student:
+    - weekly attendance
+    - daily attendance
+    - per class attendance
